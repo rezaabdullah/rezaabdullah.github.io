@@ -1,10 +1,10 @@
 # Site settings
-title: Portfolio | Abdullah Reza
+title: Abdullah | Reza
 email: air.reza@hotmail.com
 url: https://rezaabdullah.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "product development, product developer, solution architect, data science, data scientist, full stack developer, nodejs, javascript, web developer, engineer, iot, ai, deep learning, machine learning, ai engineer"
-skills: "Product Developer - ML/AI & IoT - Data Scientist - Agile Project Management - LSSGB"
+skills: "Product Developer - ML/AI & IoT - Data Scientist - Agile Project Management"
 meta_author: Reza Abdullah
 
 # Google webmaster tools
