@@ -1,9 +1,9 @@
 # Site settings
-title: Abdullah | Reza
+title: Abdullah Reza
 email: air.reza@hotmail.com
 url: https://rezaabdullah.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "product development, product developer, solution architect, data science, data scientist, full stack developer, nodejs, javascript, web developer, engineer, iot, ai, deep learning, machine learning, ai engineer"
+description: "Blog on science, engineering and technology, particularly my journey into product development, engineering, AI/ML and data science projects."
+keywords: "product development, product developer, solution architect, data science, data scientist, data, architect, full stack developer, nodejs, javascript, web developer, engineer, iot, ai, deep learning, machine learning, ai engineer, instrumentation, automation, protfolio"
 skills: "Product Developer - ML/AI & IoT - Data Scientist - Agile Project Management"
 meta_author: Reza Abdullah
 
@@ -32,28 +32,24 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Abdullah Reza
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
+  - title: linkedin
+    url: http://linkedin.com/in/air.reza
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Petaling Jaya
+  - line: Selangor 47301, Malaysia
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
