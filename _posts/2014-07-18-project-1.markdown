@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2017-08-01
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: August 2017
+client: Plus Solar Systems Sdn. Bhd.
+category: IoT Solution
+description: NodeJS based IoT solution is developed to integrate low cost hardwares with industrial automation protocols such Modbus and PLC. The solution can take measurable action to reduce OPEX without altering pre existing SCADA architecture; enabling processes to be lean and agile without the overhead cost of compliance and regulations. The life-cycle of the IoT solution were developed (architecting the process and data model) and managed (prototype to production) on Google Cloud Platform. Machine Learning pipelines were implemented to automate the workflow of Data Warehousing, Model generation and deployment. Various ML/Statistical algorithms (Generalised Linear Model, Ensemble Learning and Support Vector Regression) were implemented to determine optimum outcome.
 
 ---
