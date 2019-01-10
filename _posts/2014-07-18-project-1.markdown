@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2017-08-01
-img: cabin.png
+img: cabin.jpg
 alt: image-alt
 project-date: August 2017
 client: Plus Solar Systems Sdn. Bhd.
